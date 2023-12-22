@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\karen\Downloads\Project3\Project3\Project3\MyForm1.h(240,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project3.vcxproj -> C:\Users\karen\Downloads\Project3\Project3\x64\Release\Project3.exe

@@ -1,0 +1,8 @@
+C:\Users\karen\source\repos\Project3\Project3\x64\Release\Project3.vcxproj.AssemblyReference.cache
+C:\Users\karen\source\repos\Project3\Project3\x64\Release\Project3.MyForm.resources
+C:\Users\karen\source\repos\Project3\Project3\x64\Release\Project3.MyForm1.resources
+C:\Users\karen\source\repos\Project3\Project3\x64\Release\Project3.vcxproj.GenerateResource.cache
+C:\Users\karen\Downloads\Project3\Project3\Project3\x64\Release\Project3.vcxproj.AssemblyReference.cache
+C:\Users\karen\Downloads\Project3\Project3\Project3\x64\Release\Project3.MyForm.resources
+C:\Users\karen\Downloads\Project3\Project3\Project3\x64\Release\Project3.MyForm1.resources
+C:\Users\karen\Downloads\Project3\Project3\Project3\x64\Release\Project3.vcxproj.GenerateResource.cache
